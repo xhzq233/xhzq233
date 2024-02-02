@@ -1,6 +1,7 @@
 ### Hi there is xhzq233
 
-- 🌱 I’m currently learning Flutter.
-- 📫 How to reach me: [📮email](xhzq233@qq.com) or [Telegram](https://t.me/xhzq233).
+- 🌱 I’m currently learning computer graphics.
+- 💌 I am interested in the client(specific iOS) and front-end.
+- 📫 How to reach me: [📮email]xhzq233@gmail.com or [Telegram](https://t.me/xhzq233).
 
 
